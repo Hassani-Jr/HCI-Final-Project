@@ -14,7 +14,6 @@ This repository contains a Streamlit web application called **NBA Data Explorer*
 - [Components](#components)
 - [Dependencies](#dependencies)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
@@ -27,7 +26,7 @@ This repository contains a Streamlit web application called **NBA Data Explorer*
 
 ## Demo
 
-![NBA Data Explorer Screenshot](link_to_screenshot.png) *(Replace with actual screenshot image)*
+![NBA Data Explorer Screenshot](pics\Screenshot 2024-11-29 143300.png) 
 
 ## Installation
 
@@ -97,7 +96,7 @@ This application uses the API-NBA API to fetch data. You need to obtain an API k
 1. **Run the Application**
 
    ```bash
-   streamlit run nba_app.py
+   streamlit run main.py
    ```
 
 2. **Interact with the App**
